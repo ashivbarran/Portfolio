@@ -1,0 +1,7 @@
+
+About me
+"Hi there, I’m a front-end developer based in Canada, I enjoy turning complex problems into simple and intuitive interface. When I’m not coding, I spend my time volunteering in the community".
+
+C:\Portfolio Site
+
+https://github.com/ashivbarran/Portfolio.git
